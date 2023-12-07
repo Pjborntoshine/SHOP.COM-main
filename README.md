@@ -20,17 +20,17 @@ This blog is created to share our experience of working on a project assigned to
 
 ## EXPECTATION:
 
-i are expecting to create a pixel-perfect cloned site of shop.com website within four days. with all its pages,given proper HTML,CSS properties,using DOM and MEDIA QUERY concepts with respect to the official Shop.com website.
+expecting to create a pixel-perfect cloned site of shop.com website within four days. with all its pages,given proper HTML,CSS properties,using DOM and MEDIA QUERY concepts with respect to the official Shop.com website.
 
 ##  RESPONSIBITLIES:
 
-1. I started by going through the website,studying its design,layouts,content etc.
-2. I started to go with the first page first.We divided the main page into three parts the navigation bar, the body and the footer.
-3. I worked on the navbar, sidebar and sign in and sign up page .
-4. I worked on the body parts and footer part.
-5. I worked on the add to cart functionality and created the pages that link with shop.com product.
-6. I worked on the link clothing page and its functionality.
-7. In the end we had to combine all the works together and upload on the GitHub.
+1. I began by thoroughly examining the website, studying its design, layouts, and content.
+2. Moving on, I started with the first page, breaking it down into three sections: the navigation bar, the body, and the footer.
+3. My focus initially was on the navbar, sidebar, as well as the sign-in and sign-up pages.
+4. Afterward, I addressed the body sections and the footer.
+5. I implemented the "add to cart" functionality and created pages that linked with shop.com products.
+6. My attention then shifted to the clothing page and its corresponding functionality.
+7. Finally, I integrated all the components, ensuring they worked seamlessly together, and uploaded the project to GitHub.
 
 ## CHALLENGES I FACED AND HOW I SOLVED THEM:
 
